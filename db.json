@@ -1,0 +1,139 @@
+{
+  "apostilamento": [
+    {
+      "descricao": "sf midjm amd ikmaidkm",
+      "projetoAtividade": "1293jiojq",
+      "valor": 123,
+      "numeroSEI": "92310mlkkj",
+      "dataApostilamento": {
+        "year": 2020,
+        "month": 5,
+        "day": 10
+      },
+      "id": 1, 
+      "id_contrato": 1
+    }
+  ],
+  "aditivos": [
+    {
+      "tipoAditivo": "tempoValor",
+      "dataPublicacao": {
+        "year": 2020,
+        "month": 5,
+        "day": 7
+      },
+      "inicioVigencia": {
+        "year": 2020,
+        "month": 5,
+        "day": 1
+      },
+      "fimVigencia": {
+        "year": 2020,
+        "month": 5,
+        "day": 31
+      },
+      "valorAditivo": 345678,
+      "pdfAdtivo": "C:\\fakepath\\swap_vert-black-18dp.svg",
+      "objetoAditivo": "ghhfah  8wq a j damçkdma",
+      "id": 1,
+      "id_contrato": 1
+    }
+  ],
+  "credor": [
+    {
+      "codCredor": "20191234",
+      "nomeCredor": "Teste SA",
+      "tipoCredor": "pj",
+      "cpf": "",
+      "rg": "",
+      "cnpj": "12345",
+      "inscricaoEstadual": "122345",
+      "id": 1
+    }
+  ],
+  "despesas": [
+    {
+      "dataLancamento": {
+        "year": 2020,
+        "month": 5,
+        "day": 9
+      },
+      "tipoDespesa": "feahfea",
+      "valor": 1123,
+      "numeroSEI": "e8aunf m",
+      "numeroEmpenho": "fhnaoiefk",
+      "descricaoDespesa": "fainfhakejf",
+      "setorSolicitante": "faifhiakej",
+      "nomeSolicitante": "nfajnef",
+      "setorBeneficiario": "fafnhef",
+      "nomeBeneficiario": "nfjnaefja",
+      "id": 1,
+      "id_contrato": 1
+    }
+  ],
+  "instrumentos": [
+    {
+      "numeroInstrumento": "gyagyw",
+      "descricao": "yushjf",
+      "saldoInstrumento": 56789,
+      "elementoDespesa": "dhfh",
+      "fonte": "yiua",
+      "id": 1
+    }
+  ],
+  "licitacoes": [
+    {
+      "modalidade": "pf",
+      "descricao": "wajwd",
+      "dataLicitacao": {
+        "year": 2020,
+        "month": 5,
+        "day": 8
+      },
+      "PDFEdital": "eida",
+      "id": 1
+    }
+  ],
+  "contratos": [
+    {
+      "numeroPasta": 1234,
+      "numeroContrato": 1234,
+      "campusResponsavel": "ghjgkjghj",
+      "setorResponsavel": "giguiguj",
+      "codigoCredor": 3456,
+      "nomeCredor": "gkjghjbjk",
+      "objetoContrato": "tyulgjb",
+      "dataPublicacao": {
+        "year": 2020,
+        "month": 5,
+        "day": 16
+      },
+      "dataInicio": {
+        "year": 2020,
+        "month": 5,
+        "day": 10
+      },
+      "dataFim": {
+        "year": 2020,
+        "month": 5,
+        "day": 9
+      },
+      "vigenciaAtual": "20/10/2020",
+      "valorOriginal": 567,
+      "valorAtual": 567,
+      "saldoContrato": 567,
+      "gestor": "uhiolkjm",
+      "fiscal": "hijklçm.,",
+      "tipoContrato": "u89ipokl",
+      "numeroSEI": "56789",
+      "observacao": "yuiojpkl~ç",
+      "pdfContrato": "C:\\fakepath\\Baixaki_Audacity.exe",
+      "status": "ativo",
+      "id": 1, 
+      "id_licitacao": 1,
+      "id_instrumento": 1, 
+      "id_credor": 1 
+
+    }
+  ]
+}
